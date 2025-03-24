@@ -1,0 +1,4 @@
+configs/services/firebase/*
+tmp/*
+.env
+coverage.out
